@@ -22,8 +22,9 @@ electrum-ecc==0.0.4 \
     --hash=sha256:70a78be3eea4cba41d968a0c880b14ce5bc85e189f897d652bd6fdfa7ea5cd7d
 frozenlist==1.5.0 \
     --hash=sha256:81d5af29e61b9c8348e876d442253723928dce6433e0e76cd925cd83f1b4b817
-idna==3.6 \
-    --hash=sha256:9ecdbbd083b06798ae1e86adcbfe8ab1479cf864e4ee30fe4e46a003d12491ca
+idna==3.7 \
+    --hash=sha256:028ff3aadf0609c1fd278d8ea3089299412a7a8b9bd005dd08b9f8285bcb5cfc \
+    --hash=sha256:82fee1fc78add43492d3a1898bfa6d8a904cc97d8427f683ed8e798d07761aa0
 jsonpatch==1.33 \
     --hash=sha256:9fcd4009c41e6d12348b4a0ff2563ba56a2923a7dfee731d004e212e1ee5030c
 jsonpointer==2.4 \
